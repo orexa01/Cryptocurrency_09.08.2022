@@ -1,0 +1,22 @@
+<resources>
+    <string name="app_name">Cryptocurrency</string>
+    <string name="settings">Настройки</string>
+    <string name="currency">Валюта</string>
+    <string name="currency_selected">Выбрана валюта: </string>
+    <string name="yes">Да</string>
+    <string name="no">Нет</string>
+    <string name="hello_blank_fragment">TEXT</string>
+    <string-array name="currency_list">
+        <item>Доллар</item>
+        <item>Евро</item>
+        <item>Рубль</item>
+        <item>Швейцарский франк</item>
+        <item>Юань</item>
+        <item>Иена</item>
+        <item>Фунт стерлингов</item>
+    </string-array>
+
+
+
+
+</resources>
